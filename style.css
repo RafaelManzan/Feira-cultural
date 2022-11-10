@@ -1,5 +1,5 @@
 body{
-    background-color: rgb ( 14 ,  253 ,  181 );
+    background-color: Black;
     margin: 0;
 }
 
@@ -32,7 +32,7 @@ a:focus{
 }
 
 .header{
-    background-color: darkblue;
+    background-color: yellow;
     display: flex;
     justify-content: space-between;
     align-items: center;
