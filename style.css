@@ -1,6 +1,6 @@
 body{
     font-family: system-ui;
-    background-color: rgb(218, 38, 32);
+    background-color: white;/*rgb(218, 38, 32);*/
     margin: 0;
 }
 
@@ -16,7 +16,7 @@ h2{
 
 h3{
     text-align: center;
-    color: white;
+    color: black;
     font-size: 30;
 }
 
