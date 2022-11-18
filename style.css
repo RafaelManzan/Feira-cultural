@@ -33,7 +33,7 @@ a:focus{
 }
 
 .header{
-    background-color: darkred;
+    background-color: rgb(218, 38, 32);
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -59,7 +59,7 @@ a:focus{
 }
 
 .footer{
-    background-color: darkred;
+    background-color: rgb(218, 38, 32);
     display: flex;
     justify-content: center;
 }
