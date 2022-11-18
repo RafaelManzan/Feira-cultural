@@ -5,7 +5,7 @@ body{
 }
 
 h1{
-    color:white;
+    color:rgb(218, 38, 32);
     margin: 50px;
     padding: 50px;
 }
@@ -33,7 +33,7 @@ a:focus{
 }
 
 .header{
-    background-color: rgb(218, 38, 32);
+    background-color: white;
     display: flex;
     justify-content: space-between;
     align-items: center;
