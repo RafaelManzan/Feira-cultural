@@ -1,11 +1,11 @@
 body{
     font-family: system-ui;
-    background-color: red;
+    background-color: white;
     margin: 0;
 }
 
 h1{
-    color:black;
+    color:yellow;
     margin: 50px;
     padding: 50px;
 }
@@ -16,7 +16,7 @@ h2{
 
 h3{
     text-align: center;
-    color:black;
+    color:yellow;
     font-size: 30px;
 }
 
@@ -33,7 +33,7 @@ a:focus{
 }
 
 .header{
-    background-color: yellow;
+    background-color: red;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -59,7 +59,7 @@ a:focus{
 }
 
 .footer{
-    background-color: yellow;
+    background-color: red;
     display: flex;
     justify-content: center;
 }
