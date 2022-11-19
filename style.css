@@ -1,6 +1,6 @@
 body{
     font-family: system-ui;
-    background-color: green;/*rgb(218, 38, 32);*/
+    background-color: white;/*rgb(218, 38, 32);*/
     margin: 0;
 }
 
@@ -16,7 +16,7 @@ h2{
 
 h3{
     text-align: center;
-    color: black;
+    color: rgb(218, 38, 32);
     font-size: 30;
 }
 
@@ -33,7 +33,7 @@ a:focus{
 }
 
 .header{
-    background-color: white;
+    background-color: yellow;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -59,7 +59,7 @@ a:focus{
 }
 
 .footer{
-    background-color: white;
+    background-color: yellow;
     display: flex;
     justify-content: center;
 }
